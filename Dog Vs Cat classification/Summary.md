@@ -48,3 +48,7 @@ If more time and resources were available, one improvement that could enhance th
    - Experiment with different architectures for the final dense layers (adding more layers, changing the number of neurons, etc.) to better capture patterns in the dataset.
 
 By implementing fine-tuning, the model would be more capable of accurately distinguishing between dogs and cats, improving its overall performance in the task.
+
+### Contact:
+Sheikh Abir Islam  
+Email: abirraufun1234@gmail.com
