@@ -17,7 +17,7 @@ This project performs semantic segmentation on Bangladeshi meal plate images usi
 ## 📁 Dataset
 
 - **Source**: Annotated using Roboflow (image + mask pairs)
-- **Classes (12)**:
+- **Classes (11)**:
   - 0: Background
   - 1: Chicken Curry
   - 2: Egg
