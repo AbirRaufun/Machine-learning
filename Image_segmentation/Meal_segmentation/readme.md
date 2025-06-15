@@ -108,6 +108,6 @@ Thanks for checking out our project! 🌟
 ## 👤 Author
 
 **Abir Islam**  
-📧 abirislam.dev@gmail.com  
+📧 abirraufun369.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/abirislam369) | [GitHub](https://github.com/AbirRaufun)
 
