@@ -81,15 +81,6 @@ Each image has a corresponding segmentation mask with pixel values mapped to cla
 
 ---
 
-## 📦 Folder Structure
-/project_root
-│
-├── dataset/ # train/valid/test images and masks
-├── notebooks/ # Colab notebooks used for training
-├── model/ # Trained model (.h5)
-├── visualize/ # Output plots and prediction samples
-└── README.md # This file
-
 ---
 
 ## 📌 To Run
