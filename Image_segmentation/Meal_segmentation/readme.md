@@ -109,5 +109,5 @@ Thanks for checking out our project! 🌟
 
 **Abir Islam**  
 📧 abirraufun369@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/abirislam369) | [GitHub](https://github.com/AbirRaufun)
+🔗 [LinkedIn](https://www.linkedin.com/in/sheikhabirislam369) | [GitHub](https://github.com/AbirRaufun)
 
