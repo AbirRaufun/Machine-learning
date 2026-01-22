@@ -1,4 +1,4 @@
-# Gemini Coffee Shop RAG System - Fixed Version
+# Gemini Coffee Shop RAG System 
 
 A complete, working implementation of a Retrieval-Augmented Generation (RAG) system using Google's Gemini API and ChromaDB vector database for a coffee shop assistant.
 
