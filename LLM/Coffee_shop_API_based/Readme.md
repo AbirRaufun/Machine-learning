@@ -25,7 +25,7 @@ This is a fixed version of the Gemini RAG system for a coffee shop assistant.
 
 1. **Add your Gemini API key** in the `API_KEY` variable
 2. **Ensure your vector database** is in the `./vector_db` folder
-3. **Run the script**: `python gemini_rag_fixed.py`
+3. **Run the script**: `streamlit run chatbot_Api.py`
 
 ## Commands
 - Type your question to chat
