@@ -11,16 +11,6 @@ A complete, working implementation of a Retrieval-Augmented Generation (RAG) sys
 - **Source Attribution**: Shows which documents were used for answers
 - **Interactive Chat**: Command-line interface for testing
 
-## 📁 File Structure
-gemini_rag_fixed.py
-├── GeminiCoffeeRAG class
-│ ├── init() - Initialize API and vector DB
-│ ├── retrieve_context() - Query vector database
-│ ├── format_prompt() - Build prompt with context
-│ ├── generate_response() - Generate answers
-│ ├── clear_history() - Clear chat memory
-│ └── test_system() - Run test queries
-└── Main execution block
 
 ## 🔧 Installation Requirements
 
