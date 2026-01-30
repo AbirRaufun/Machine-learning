@@ -19,8 +19,6 @@ pip install google-generativeai chromadb
 
 # Gemini Coffee Shop RAG - README
 
-This is a fixed version of the Gemini RAG system for a coffee shop assistant.
-
 ## How to Use
 
 1. **Add your Gemini API key** in the `API_KEY` variable
